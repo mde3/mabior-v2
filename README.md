@@ -42,5 +42,7 @@ npm run dev
 npm run build
 ```
 
+Give a ⭐ if you found this nice!
+
 ## License
 Distributed under the MIT License - see [LICENSE](LICENSE) file for details.
