@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import { AiOutlineDownload } from 'react-icons/ai'
-import cv from '../../assets/Mabior_Duom.pdf'
+import cv from '../../assets/mabior_cv.pdf'
 
 const About = () => {
   return (
