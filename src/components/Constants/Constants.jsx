@@ -52,7 +52,7 @@ export const archivesData = [
         id: 3,
         title: 'CampAd – Camp Adventure',
         desc: 'This concept focuses on your next outdoor adventure. From hiking and biking to fishing and kayaking.',
-        live: '"https://campad.netlify.app/',
+        live: 'https://campad.netlify.app/',
         code: 'https://github.com/mde3/CampAd',
     },
 ];
